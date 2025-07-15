@@ -1,10 +1,5 @@
 """ DETALJER:
 
-        Gruppe:
-             SDU-logins:
-                Navn: Annemette Brok Pirchert
-                Mail: anpir23@student.sdu.dk
-
         Beskrivelse:
             Python implementation HEAP-SORT på binært MIN-HEAP.
             Modsat MAX-HEAP, hvor A[Parent(i)] >= A[i] da ser man, at det for MIN-HEAP gælder A[Parent(i)] <= A[i].
