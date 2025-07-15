@@ -1,11 +1,5 @@
 Information:
 
-    SDU Gruppe Login:
-
-        Navn: Annemette Brok Pirchert
-        Email: anpir23@student.sdu.dk
-
-
     Projekt Del III:
 
         Indeholder flg. filer til kørsel af programmet:
