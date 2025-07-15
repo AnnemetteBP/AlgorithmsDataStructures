@@ -3,9 +3,6 @@ from DictBinTree import DictBinTree
 
 '''
     Gruppe:
-        SDU-logins:
-            Navn: Annemette Brok Pirchert
-            Mail: anpir23@student.sdu.dk
             
     PART II: OPGAVE 2:
 
